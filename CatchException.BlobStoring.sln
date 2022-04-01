@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchException.BlobStoring", "CatchException.BlobStoring\CatchException.BlobStoring.csproj", "{40B59852-37AF-416A-8C69-83F9A4D46EC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatchException.BlobStoring", "CatchException.BlobStoring\src\CatchException.BlobStoring.csproj", "{40B59852-37AF-416A-8C69-83F9A4D46EC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{721D08FD-43EA-4C6A-B200-3660113E985C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +20,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40B59852-37AF-416A-8C69-83F9A4D46EC0} = {721D08FD-43EA-4C6A-B200-3660113E985C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7E1B19F3-55C7-4073-BBC4-908DCB94272F}
