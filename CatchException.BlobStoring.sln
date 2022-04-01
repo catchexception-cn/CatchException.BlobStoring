@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatchException.BlobStoring", "CatchException.BlobStoring\src\CatchException.BlobStoring.csproj", "{40B59852-37AF-416A-8C69-83F9A4D46EC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatchException.BlobStoring", "src\CatchException.BlobStoring.csproj", "{40B59852-37AF-416A-8C69-83F9A4D46EC0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{721D08FD-43EA-4C6A-B200-3660113E985C}"
 EndProject
